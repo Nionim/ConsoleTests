@@ -5,7 +5,7 @@ public class Main {
     public native void dc();
 
     static {
-        System.loadLibrary("console_tests");
+        System.load("D:/Desktop/Violette_Project/jaba/ConsoleTests/src/main/java/delta/cion/c/console_tests.dll");
     }
 
     public static void main(String[] args) {
