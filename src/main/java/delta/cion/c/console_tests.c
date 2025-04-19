@@ -3,5 +3,6 @@
 #include "../delta_cion_Main.h"
 
 JNIEXPORT void JNICALL Java_delta_cion_Main_dc(JNIEnv *env, jobject obj) {
-    printf("123321\n");
+    printf("Success!!!\n");
+    printf("Pepe a frog!\n");
 }

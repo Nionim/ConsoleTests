@@ -15,6 +15,14 @@ extern "C" {
 JNIEXPORT void JNICALL Java_delta_cion_Main_dc
   (JNIEnv *, jobject);
 
+/*
+ * Class:     delta_cion_Main
+ * Method:    vivo
+ * Signature: ()V
+ */
+JNIEXPORT void JNICALL Java_delta_cion_Main_vivo
+  (JNIEnv *, jobject);
+
 #ifdef __cplusplus
 }
 #endif
