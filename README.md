@@ -6,8 +6,6 @@
     My try to use JNI in Java
 </p>
 
----
-
 <p align="center">
     Simple sample for work with JNI
     <br>
@@ -17,6 +15,8 @@
     <br>
     By: Lmao stupid Cion
 </p>
+
+---
 
 <p align="center">
     <img alt="My Server" src="https://img.shields.io/badge/My_Server-white?style=for-the-badge&logo=discord&logoColor=white&logoSize=64&label=%20&labelColor=5c32a8&color=242323&link=https%3A%2F%2Fdiscord.gg%2FMEBkvJbe4P">
